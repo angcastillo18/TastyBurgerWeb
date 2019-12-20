@@ -191,3 +191,7 @@ letter-spacing: 1px;
         background-position: 90000%;
     }
 }
+/* Seccion Subscriber Submit */
+.input-submit{
+    flex-basis: 30%;
+}
