@@ -195,3 +195,20 @@ letter-spacing: 1px;
 .input-submit{
     flex-basis: 30%;
 }
+/* Seccion footer */
+footer{
+    background:#17181b;
+}
+footer h5{
+    color: white;
+}
+.color-footer{
+    color: white;
+    font-style: none;
+    text-decoration:none; 
+}
+.color-footer:hover{
+    color: white;
+    font-style: none;
+    text-decoration:none; 
+}
