@@ -212,3 +212,26 @@ footer h5{
     font-style: none;
     text-decoration:none; 
 }
+/* ---------------------- */
+/* Pagina ABOUT US */
+/* ---------------------- */
+.main-banner{
+    background: url(/img/inner-bg.jpg) no-repeat center;
+    background-size: auto;
+    background-size: cover;
+    -webkit-background-size: cover;
+    min-height: 300px;
+}
+.color-breadcrumb{
+    color:  #ff3f34;
+    font-style: none;
+    text-decoration:none; 
+    font-size: 15px;
+    letter-spacing: 1px;
+    
+}
+.color-breadcrumb:hover{
+    color:  #ff3f34;
+    font-style: none;
+    text-decoration:none; 
+}
